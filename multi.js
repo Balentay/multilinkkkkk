@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <script>
 javascript:(function() {
     window.open('https://www.gaiaonline.com/runway/', '_blank');
@@ -8,3 +11,8 @@ javascript:(function() {
     window.open('https://www.gaiaonline.com/forum/compose/entry/new/109284963/', '_blank');
 })();
 </script>
+</head>
+<body>
+    
+</body>
+</html>
