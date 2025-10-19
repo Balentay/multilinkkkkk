@@ -1,5 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+<body>
+
+<h2>JavaScript in Body</h2>
+
+<p id="demo"></p>
+
 <script>
 javascript:(function() {
     window.open('https://www.gaiaonline.com/runway/', '_blank');
@@ -10,4 +16,6 @@ javascript:(function() {
     window.open('https://www.gaiaonline.com/forum/compose/entry/new/109284963/', '_blank');
 })();
 </script>
-</html>
+
+</body>
+</html> 
