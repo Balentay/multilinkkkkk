@@ -1,17 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <style>
-        body {
-            background-color:  #FFFFFF; <!-- set this value to match your background color (#2f3437 is the default "dark" theme color) -->
-        }
-    </style>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notion Widget Embed Template</title>
-</head>
-<body>
-  
 <script>
 javascript:(function() {
     window.open('https://www.gaiaonline.com/runway/', '_blank');
@@ -22,6 +10,4 @@ javascript:(function() {
     window.open('https://www.gaiaonline.com/forum/compose/entry/new/109284963/', '_blank');
 })();
 </script>
-  
-</body>
 </html>
